@@ -4,4 +4,4 @@ DİSCORD İÇİN ROL DAĞITMA BOTU BUTONLU
 
 # 20 STARDA SİZLERLE
 
-[ADISZ](https://i.imgur.com/fFBpdYH.png)
+![ADISZ](https://i.imgur.com/fFBpdYH.png)
