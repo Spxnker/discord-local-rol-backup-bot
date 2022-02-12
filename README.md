@@ -2,6 +2,6 @@
 
 DİSCORD İÇİN ROL DAĞITMA BOTU BUTONLU
 
-# 20 STARDA SİZLERLE
+# PAYLAŞTIM
 
 ![ADISZ](https://i.imgur.com/fFBpdYH.png)
