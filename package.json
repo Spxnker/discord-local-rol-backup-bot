@@ -1,0 +1,30 @@
+{
+  "name": "spank.db",
+  "version": "1.0.0",
+  "description": "Hatasız küçük JSON temelli database modülü.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "database",
+    "discord.js",
+    "spank.db",
+    "json",
+    "jsondb",
+    "db",
+    "spanker"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Spxnker/spank.db"
+  },
+  "author": "spanker",
+  "license": "MIT",
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^13.3.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  }
+}
