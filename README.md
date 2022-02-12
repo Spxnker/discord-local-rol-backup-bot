@@ -2,6 +2,6 @@
 
 DİSCORD İÇİN ROL DAĞITMA BOTU BUTONLU
 
-# PAYLAŞTIM
+# Piyasada 5 ay önce yaptığım bir bot olarak şimdiki çıkan botlardan daha hızlı olması gurur verici
 
 ![ADISZ](https://i.imgur.com/fFBpdYH.png)
