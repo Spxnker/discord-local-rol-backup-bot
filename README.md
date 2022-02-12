@@ -6,6 +6,8 @@ DİSCORD İÇİN ROL DAĞITMA BOTU BUTONLU
 
 # özellikleri
 
+en önemli özelliği databse modülü kullanmıyorsunuz proje içinde modül var 
+
 çoğu botla aynı fakat kendisi "#rol-ayrıntı" adlı kanalı açıp logları atıyor.
 ve çoğu botdan daha hızlı hız ayarlama menüsü de var
 
